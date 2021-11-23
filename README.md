@@ -1,2 +1,2 @@
 # TTA-HOME-LEARING
-Comleted home learning task 
+Completed home learning task 
